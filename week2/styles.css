@@ -1,0 +1,12 @@
+.images {
+    font-family: monospace;
+    color: purple;
+}
+
+#links {
+    font-family: monospace;
+}
+
+div > h2 {
+    color: brown;
+}
